@@ -42,3 +42,7 @@ Bu model farklı sektörlere uygulanabilir:
 - `Executive_Summary.pdf` → Yönetici özeti  
 - `dashboard_screenshots/` → Ana ekran görüntüleri  
 - `datasets/` → Örnek/veri seti  
+
+
+
+Not: Bu çalışma eğitim projesi kapsamında üretilmiş olup, kullanılan veriler ticari/gizli nitelikte değildir. Orijinal Power BI analiz dosyası, projenin şeffaflığı ve teknik derinliğini göstermek amacıyla paylaşılmıştır.
