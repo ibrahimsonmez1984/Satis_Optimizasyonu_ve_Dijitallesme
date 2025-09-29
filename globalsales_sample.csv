@@ -1,0 +1,6 @@
+Segment,Country,Product,Discount_Band,Units_Sold,Manufacturing_Price,Sale_Price,Gross_Sales,Discounts,Sales,COGS,Profit,Date,Month_Number,Month_Name,Year
+Government,Canada,Carretera ,None ,1618.5,3,20,32370.0,0.0,32370.0,16185.0,16185.0,2014-01-01,1,January ,2014
+Government,Germany,Carretera ,None ,1321.0,3,20,26420.0,0.0,26420.0,13210.0,13210.0,2014-01-01,1,January ,2014
+Midmarket,France,Carretera ,None ,2178.0,3,15,32670.0,0.0,32670.0,21780.0,10890.0,2014-06-01,6,June ,2014
+Midmarket,Germany,Carretera ,None ,888.0,3,15,13320.0,0.0,13320.0,8880.0,4440.0,2014-06-01,6,June ,2014
+Midmarket,Mexico,Carretera ,None ,2470.0,3,15,37050.0,0.0,37050.0,24700.0,12350.0,2014-06-01,6,June ,2014
